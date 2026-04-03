@@ -1,0 +1,11 @@
+{
+  "name": "Lify",
+  "description": "Adds an L to the start of every word in your messages.",
+  "authors": [
+    {
+      "name": "you",
+      "id": "0"
+    }
+  ],
+  "main": "index.js"
+}
